@@ -1,2 +1,2 @@
 # HackTheBox
-Tools and exploits related to my experiences on [Hack The Box](https://www.hackthebox.com/).
+Tools and exploits related to my experiences on [HackTheBox](https://www.hackthebox.com/).
